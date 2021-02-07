@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../helvm/helcam" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../kamil-adam/bed-hiring-task-acceptance-tests-min" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="-2" />
+    <option name="width" value="2048" />
+    <option name="height" value="1082" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../dorwijnerda_review/id-97" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../writeonly/hyde" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../writeonly/kamil_zabinski" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../writeonly/linkchecker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../writeonly/pine-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../writeonly/wheels" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
